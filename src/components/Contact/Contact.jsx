@@ -38,7 +38,7 @@ const Contact = () => {
           {/* darkMode */}
           <span style={{color: darkMode?'white': ''}}>Get in Touch</span>
           <span>Contact me</span>
-          <a href={Resume} download>
+          <a href="https://drive.google.com/file/d/1-OrtivcBRoLjvpkTU7aObc7NQ3xYBwr7/view?usp=sharing">
           <button className="button s-button">Download CV</button>
           </a>
           <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}>
