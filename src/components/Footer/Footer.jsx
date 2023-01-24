@@ -18,10 +18,12 @@ const Footer = () => {
         <a href="https://www.instagram.com/harsheet__196/"><Insta color="white" size={"3rem"} /></a>
         
         </div>
-        <span>
+        <span style={{color:"black"}}>
         Best Viewed          On Desktop!
         </span>
-        
+        <div className="react" style={{color:"black"}}>
+          This website was built on React.Js
+        </div>
       </div>
       
     </div>
