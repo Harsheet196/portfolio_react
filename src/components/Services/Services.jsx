@@ -30,7 +30,7 @@ const Services = () => {
         <span> </span> 
         
         <span>
-        Sophomore @RCOEM || CSE
+        Senior @RCOEM || CSE
           <br />
          Whatever it takes!
         </span>
@@ -76,7 +76,7 @@ const Services = () => {
             heading={"Achievements"}
             detail={
               
-               "• 3rd in IIT Bombay Nagpur  Zonals and in Top 25 teams              across nation in CodeCode              Competition    S  •Runner up in Cluster finals of              Tata Crucible Quiz. (18k Prize)              • Lead the team in Top 7              Finalized teams for SIH‑2022              from our Institute.              • 2nd Runner Up in CSE Dept              Web‑dev competition."
+               "• SIH'23 Grand Finalist • 3rd in IIT Bombay Nagpur  Zonals and in Top 25 teams              across nation in CodeCode              Competition   •Runner up in Cluster finals of              Tata Crucible Quiz. (18k Prize)              • Lead the team in Top 7              Finalized teams for SIH‑2022              from our Institute.              • 2nd Runner Up in CSE Dept              Web‑dev competition."
             }
             color="rgba(252, 166, 31, 0.45)"
           />
