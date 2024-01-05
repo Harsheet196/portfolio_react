@@ -27,25 +27,25 @@ const Portfolio = () => {
         className="portfolio-slider"
       >
         <SwiperSlide>
-          <img src={at} alt="" />
+          <img src={at} alt=""/><span ><a href="http://at.harsheet.co">Automatic Attendance Retrieval System</a></span>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={cvap} alt="" />
+          <img src={cvap} alt="" /><span ><a href="https://c-vap.github.io/Covid-Vaccine/">C-VAP: Covid Vaccine Awareness Programme</a></span>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={beast} alt="" />
+          <img src={beast} alt="" /><span ><a href="https://github.com/Harsheet196/coding__beast.git">Virtual Health Assistant</a></span>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={hack} alt="" />
+          <img src={hack} alt="" /><span ><a href="https://devfolio.co/projects/transparent-and-corruptionfree-mnrega-5e4c">Transparent and Corruption free: MNREGA</a></span>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={nlp} alt="" />
+          <img src={nlp} alt="" /><span ><a href="https://github.com/Harsheet196/NLP-based-data-integration">An NLP based approach for data Integration and Migration</a></span>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={opin} alt="" />
+          <img src={opin} alt="" /><span ><a href="https://github.com/jhamadhav/thisDot_opinhacks">ThisDot @OPINHacks</a></span>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={web3} alt="" />
+          <img src={web3} alt="" /><span ><a href="http://jhamadhav.com/web3Campus/">Web3Campus</a></span>
         </SwiperSlide>
       </Swiper>
     </div>
