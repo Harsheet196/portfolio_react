@@ -27,7 +27,7 @@ const Portfolio = () => {
         className="portfolio-slider"
       >
         <SwiperSlide>
-          <img src={at} alt=""/><span ><a href="http://at.harsheet.co">Automatic Attendance Retrieval System</a></span>
+          <img src={at} alt=""/><span ><a href="attendance.harsheetchordiya.co">Automatic Attendance Retrieval System</a></span>
         </SwiperSlide>
         <SwiperSlide>
           <img src={cvap} alt="" /><span ><a href="https://c-vap.github.io/Covid-Vaccine/">C-VAP: Covid Vaccine Awareness Programme</a></span>
