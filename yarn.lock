@@ -4504,6 +4504,11 @@
   "resolved" "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
   "version" "1.0.0"
 
+"fsevents@^2.3.2", "fsevents@~2.3.2":
+  "integrity" "sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA=="
+  "resolved" "https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz"
+  "version" "2.3.2"
+
 "function-bind@^1.1.1":
   "integrity" "sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A=="
   "resolved" "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz"
@@ -6602,6 +6607,27 @@
     "async" "^2.6.2"
     "debug" "^3.1.1"
     "mkdirp" "^0.5.5"
+
+"portofolio@file:":
+  "resolved" "file:"
+  "version" "0.1.0"
+  dependencies:
+    "-" "^0.0.1"
+    "@emailjs/browser" "^3.4.0"
+    "@iconscout/react-unicons" "^1.1.6"
+    "@testing-library/jest-dom" "^5.14.1"
+    "@testing-library/react" "^12.0.0"
+    "@testing-library/user-event" "^13.2.1"
+    "framer-motion" "^6.2.8"
+    "gh-pages" "^4.0.0"
+    "portofolio" "file:"
+    "react" "^17.0.2"
+    "react-dom" "^17.0.2"
+    "react-scripts" "^5.0.0"
+    "react-scroll" "^1.8.6"
+    "save-dev" "^0.0.1-security"
+    "swiper" "^8.0.7"
+    "web-vitals" "^2.1.0"
 
 "postcss-attribute-case-insensitive@^5.0.0":
   "integrity" "sha512-b4g9eagFGq9T5SWX4+USfVyjIb3liPnjhHHRMP7FMB2kFVpYyfEscV0wP3eaXhKlcHKUut8lt5BGoeylWA/dBQ=="
